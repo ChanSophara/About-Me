@@ -10,11 +10,11 @@
 
 - 💬 Ask me about python
 
-- 📫 How to reach me bunratnatepy@gmail.com
+- 📫 How to reach me Sopharachan90@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/buntan.tepy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/buntan.tepy" height="30" width="40" /></a>
+<a href="https://www.facebook.com/chan.sophara.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/chan.sophara.10" height="30" width="40" /></a>
 
 </p>
 
