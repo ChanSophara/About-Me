@@ -59,6 +59,6 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tepy&show_icons=true&locale=en&layout=compact" alt="tepy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Phara&show_icons=true&locale=en&layout=compact" alt="Phara" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tepy&show_icons=true&locale=en" alt="tepy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Phara&show_icons=true&locale=en" alt="Phara" /></p>
